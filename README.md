@@ -1,1 +1,1 @@
-# Responsive Slider
+#### Responsive slider made HTML,CSS, and JS
